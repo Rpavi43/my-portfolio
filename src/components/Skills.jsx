@@ -38,7 +38,7 @@ export default function Skills() {
 
         <div className="justify-self-center">
           <img
-            src="/images/skills.png"
+            src="images/skills.png"
             alt="skills"
             className="rounded shadow-[0_0_10px_hsl(224_89%_60%)] border border-transparent hover:border-brand hover:shadow-brand transition-all w-[90%] max-w-[520px]"
           />

@@ -8,7 +8,7 @@ export const INFO = {
   phone: "+91 9652548924",
   github: "https://github.com/Rpavi43",
   linkedin: "https://linkedin.com/in/rasuri-pavithra-478887358",
-  resumeUrl: "/resume.pdf"
+  resumeUrl: "resume.pdf"
 };
 
 export const SKILLS = [

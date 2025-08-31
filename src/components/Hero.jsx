@@ -55,7 +55,7 @@ export default function Hero() {
 
       <div className="justify-self-end relative">
         <img
-          src="/images/default-profile.png"
+          src="images/default-profile.png"
           alt="profile"
           className="w-[260px] sm:w-[360px] rounded-[40%] shadow-[0_0_8px_hsl(224_89%_60%)] border-2 border-transparent hover:border-brand hover:shadow-brand transition-all"
         />

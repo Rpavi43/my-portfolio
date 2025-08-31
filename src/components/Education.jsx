@@ -11,7 +11,7 @@ export default function Education() {
       <div className="grid md:grid-cols-[34%_1fr] gap-8 items-center text-black">
         <div>
           <img
-            src="/images/edu.jpg"
+            src="images/edu.jpg"
             alt="education"
             className="rounded shadow-[0_0_9px_hsl(224_89%_60%)] border border-transparent hover:border-brand hover:shadow-brand transition-all"
           />

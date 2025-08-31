@@ -10,7 +10,7 @@ export default function About() {
       <div className="grid md:grid-cols-2 gap-8 items-center text-center md:text-left">
         <div className="justify-self-center">
           <img
-            src="/images/about.png"
+            src="images/about.png"
             alt="about"
             className="w-[300px] md:w-[420px] rounded shadow-[0_0_10px_hsl(224_89%_60%)] border border-transparent hover:border-brand hover:shadow-brand transition-all"
           />

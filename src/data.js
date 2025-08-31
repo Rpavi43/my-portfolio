@@ -73,19 +73,19 @@ export const EDUCATION = [
 export const PROJECTS = [
   {
     title: "Future Insights: AI Career Guide",
-    img: "/images/project1.jpg",
+    img: import.meta.env.BASE_URL +"/images/project1.jpg",
     href: "https://rpavi43.github.io/my-html-site/",
     desc: "AI-powered platform recommending career paths using ML-based clustering."
   },
   {
     title: "EventEase: Event Management Platform",
-    img: "/images/project2.png",
+    img: import.meta.env.BASE_URL +"/images/project2.png",
     href: "#",
     desc: "Full-stack event registration & admin control with Flask & MySQL."
   },
   {
     title: "AI-Driven Online Course Recommendation System",
-    img: "/images/project3.png",
+    img: import.meta.env.BASE_URL +"/images/project3.png",
     href: "#",
     desc: "Hybrid recommender (content-based + collaborative filtering)."
   },
@@ -97,56 +97,56 @@ export const CERTS = [
     title: "Software Engineering Virtual Experience",
     org: "HPE (Forage)",
     year: "Apr 2025",
-    img: "/images/certificate1.png",
+    img: import.meta.env.BASE_URL +"/images/certificate1.png",
     link: "/certificates/hpe.pdf"
   },
   {
     title: "Data Analytics & Forensic Tech",
     org: "Deloitte (Forage)",
     year: "Apr 2025",
-    img: "/images/certificate2.png",
+    img: import.meta.env.BASE_URL +"/images/certificate2.png",
     link: "/certificates/deloitte.pdf"
   },
   {
     title: "GenAI Powered Data Analytics",
     org: "TATA (Forage)",
     year: "Jul 2025",
-    img: "/images/certificate3.png",
+    img: import.meta.env.BASE_URL +"/images/certificate3.png",
     link: "/certificates/tata.pdf"
   },
   {
     title: "Google Cybersecurity",
     org: "Coursera by Tata Strive",
     year: "Mar 2023",
-    img: "/images/certificate4.png",
+    img: import.meta.env.BASE_URL +"/images/certificate4.png",
     link: "/certificates/google-cybersecurity.pdf"
   },
   {
     title: "Ideathon 2.0 – Startup Conclave",
     org: "Stanley College",
     year: "Apr 2024",
-    img: "/images/certificate5.jpg",
+    img: import.meta.env.BASE_URL +"/images/certificate5.jpg",
     link: "/certificates/ideathon.pdf"
   },
   {
     title: "App Development Workshop – Flutter Fiesta",
     org: "MJ College of Engineering & Technology",
     year: "Nov 2023",
-    img: "/images/certificate6.jpg",
+    img: import.meta.env.BASE_URL +"/images/certificate6.jpg",
     link: "/certificates/flutter.pdf"
   },
   {
     title: "C Programming (Score: 95%)",
     org: "IIT Bombay Spoken Tutorial",
     year: "Jul 2023",
-    img: "/images/certificate7.jpg",
+    img: import.meta.env.BASE_URL +"/images/certificate7.jpg",
     link: "/certificates/c-programming.pdf"
   },
   {
     title: "Short-Term Training Program on Cybersecurity",
     org: "Stanley College",
     year: "Apr 2025",
-    img: "/images/certificate8.png",
+    img: import.meta.env.BASE_URL +"/images/certificate8.png",
     link: "/certificates/cybersecurity.pdf"
   }
 ];
